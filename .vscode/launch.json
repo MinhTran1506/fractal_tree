@@ -1,0 +1,187 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Launch TreeApp",
+            "request": "launch",
+            "mainClass": "TreeApp",
+            "projectName": "FractalTree_be38b626",
+            "vmArgs": "--module-path \"javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeApp",
+            "request": "launch",
+            "mainClass": "TreeApp",
+            "projectName": "FractalTree_8465d5be",
+            //"vmArgs": "--module-path \"C:/Users/Admin/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path \"javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeApp",
+            "request": "launch",
+            "mainClass": "TreeApp",
+            "projectName": "FractalTree_d1aed97e",
+            "vmArgs": "--module-path \"C:/Users/Admin/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeApp",
+            "request": "launch",
+            "mainClass": "TreeApp",
+            "projectName": "Game_d0ed3f83",
+            "vmArgs": "--module-path \"C:/Users/Admin/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"D:/Coding/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameMenuDemo",
+            "request": "launch",
+            "mainClass": "GameMenuDemo",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "JavaFX.App",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BindingProperties",
+            "request": "launch",
+            "mainClass": "JavaFX.BindingProperties",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckBoxEx",
+            "request": "launch",
+            "mainClass": "JavaFX.CheckBoxEx",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Choicebox",
+            "request": "launch",
+            "mainClass": "JavaFX.Choicebox",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloseProgram",
+            "request": "launch",
+            "mainClass": "JavaFX.CloseProgram",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combobox",
+            "request": "launch",
+            "mainClass": "JavaFX.Combobox",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmbeddingLayouts",
+            "request": "launch",
+            "mainClass": "JavaFX.EmbeddingLayouts",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch GridPaneLayout",
+            "request": "launch",
+            "mainClass": "JavaFX.GridPaneLayout",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Listview",
+            "request": "launch",
+            "mainClass": "JavaFX.Listview",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "JavaFX.Main",
+            "projectName": "Game_72d8e20b",
+            "vmArgs": "--module-path \"D:/Coding/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Menuu",
+            "request": "launch",
+            "mainClass": "JavaFX.Menuu",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Propertiess",
+            "request": "launch",
+            "mainClass": "JavaFX.Propertiess",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TableVieww",
+            "request": "launch",
+            "mainClass": "JavaFX.TableVieww",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeVieww",
+            "request": "launch",
+            "mainClass": "JavaFX.TreeVieww",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidateInput",
+            "request": "launch",
+            "mainClass": "JavaFX.ValidateInput",
+            "projectName": "Game_72d8e20b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "SpaceRunner.application.Main",
+            "projectName": "Game_72d8e20b",
+            "vmArgs": "--module-path \"D:/Coding/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeApp",
+            "request": "launch",
+            "mainClass": "TreeApp",
+            "projectName": "Game_72d8e20b",
+            "vmArgs": "--module-path \"D:/Coding/Java/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch FXML_example",
+            "request": "launch",
+            "mainClass": "sample.FXML_example",
+            "projectName": "Game_72d8e20b"
+        }
+    ]
+}
